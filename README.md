@@ -8,3 +8,6 @@
   <img src="https://img.shields.io/badge/Portfolio-454b54?style=for-the-badge&logo=ruff&logoColor=white" alt="Portfolio Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+<div id="profile-views" align="center">
+<img src="https://komarev.com/ghpvc/?username=Paper-Byte&style=flat-square&color=blue" alt="Progile view count"/>
+</div>
